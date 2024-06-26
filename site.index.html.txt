@@ -5,11 +5,11 @@
 <title>Название страницы - отображается на вкладке браузера и в поиске</title>
 <style type="text/css">
 a{
-color: #fff;
+color: #006000;
 text-decoration: none;
 }
 html{
-background: #FFF8CC;
+background: #A6ffA6;
 min-height: 100%;
 font-family: Helvetica;
 display: flex;
