@@ -7,7 +7,7 @@
           <h1> 
                 <span style="font-size:0.5em;"> Сайт создан только для ознакомления с правильно выполнеными заданиями </span></h1>            
           <h2> 
-               <span style="font-size:0.5em;">Это <a href="https://docs.justm.site/" target="https://docs.justm.site/">сайт </a></span>
+               <span style="font-size:0.5em;">Это <a href="https://docs.justm.site/" target="https://docs.justm.site/">сайт </span>
                 </a> которого я беру информацию </h2> 
         </body>
 </html>
