@@ -1,5 +1,10 @@
                                                       Сайт СИСадмина
-<html>
+<html
+  lang="en"
+  
+  data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"
+  data-a11y-animated-images="system" data-a11y-link-underlines="true"
+  >
         <br>
             <h1> 
                 <font size:"2"> Сайт создан только для ознакомления с правильно выполнеными заданиями </h1>            
