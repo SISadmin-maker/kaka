@@ -10,9 +10,7 @@
           <h2> 
                 <span style="font-size:0.8em;">Это <a href="https://docs.justm.site/" target="https://docs.justm.site/">сайт c </a> которого я беру информацию  </span></h2> 
         <style>
-          
-        </style>
-        body {
+          body {
     -webkit-animation: colorchange 60s infinite; 
     animation: colorchange 60s infinite;
 }
@@ -29,6 +27,7 @@
     50%  {background: #117A65;}
     75%  {background: #DC7633;}
     100% {background: #9B59B6;}
-}          
-        </body>  
+}           
+        </style>
+       </body>  
 </html>
