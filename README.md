@@ -12,7 +12,7 @@
                 <span style="font-size:0.8em;">Это <a href="https://docs.justm.site/" target="https://docs.justm.site/">сайт c </a> которого я беру информацию  </span></h2> 
         <style>
           body {
-background-color: #000000 
+background-color: #fdf0d5
   }       
         </style>
           </head>
